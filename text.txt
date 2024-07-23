@@ -1,4 +1,0 @@
-manasa   1    sde
-bhavana   2   sde2
-alekhya   3   sde3
-deeksha   4   sde4
